@@ -3,6 +3,10 @@
 <hr>
 <h1>App Logo</h1>
 <img src="BirthdayGreetIcon.png" alt="Birthday Greet Logo">
+<hr>
+
+# App in Action
+[View App in Action Here](https://www.linkedin.com/feed/update/urn:li:activity:6719626047278641153/)
 
 
 
